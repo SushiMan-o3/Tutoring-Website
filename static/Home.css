@@ -1,0 +1,18 @@
+.information {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 10%;
+}
+
+.image1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.pic1 {
+    border-radius: 50px;
+    width: 450px;
+    height: auto;
+}
