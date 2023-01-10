@@ -1,6 +1,18 @@
+.nameandlogo {
+    padding-left: 50%;
+}
+
+.collapse {
+    padding-left: 70%;
+}
+
+.body {
+    border-block-start-color: aliceblue;
+}
+
 .myH2 {
 	text-align:center;
-	font-size: 4rem;
+    font-size: 3rem;
 }
 .myP {
 	text-align: justify;

@@ -1,7 +1,10 @@
 .information {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    padding: 10%;
+    padding-top: 5%;
+    padding-right: 17%;
+    padding-left: 17%;
+    background-color: white;
 }
 
 .image1 {
@@ -13,6 +16,6 @@
 
 .pic1 {
     border-radius: 50px;
-    width: 450px;
+    width: 375px;
     height: auto;
 }
